@@ -7,7 +7,7 @@ module.exports = {
 
     
     
-    ], {});=´-uj78gt5yf4re3dwsqa
+    ], {});
   },
 
   async down (queryInterface, Sequelize) {
